@@ -1,0 +1,182 @@
+[
+    {
+	"name":"Arsenal",
+	"nickname":"Nickname: The Gunners",
+	"founded":"Founded: August, 5th 1886",
+	"website":"http://www.arsenal.com/home",
+	"description":"In order to find directions to the Emirates Stadium please use the link below.",
+	"coords":"51.554888,-0.108438",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/arsenal.png"
+    },
+    {
+	"name":"Aston Villa",
+	"nickname":"Nickname: The Villa, The Villans, The Lions, The Claret and Blue Army",
+	"founded":" Founded: 24, November 1874",
+	"website":"http://www.avfc.co.uk/",
+	"description":"In order to find directions to the Villa Park Stadium please use the link below.",
+	"coords":"52.513505,-1.885872",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/aston-villa.png"
+    },
+    {
+	"name":"Burnley",
+	"nickname":"Nickname: The Clarets",
+	"founded":" Founded: 5, August 1882",
+	"website":"http://www.burnleyfootballclub.com/",
+	"description":"<p>In order to find directions to the Turf Moor Stadium please use the link below.</p>",
+	"coords":"53.788987,-2.230187",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/burney-fc-hd-logo.png"
+    },
+    {
+	"name":"Chelsea",
+	"nickname":"Nickname: The Blues, The Pensioners",
+	"founded":" Founded: 10, March 1905",
+	"website":"http://www.chelseafc.com",
+	"description":"<p>In order to find directions to Stamford Bridge Stadium please use the link below.</p>",
+	"coords":"51.481727,-0.190995",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/chelsea.png"
+    },
+    {
+	"name":"Crystal Palace",
+	"nickname":"Nickname: Eagles, Glaziers",
+	"founded":" Founded: 10, September 1905",
+	"website":"http://www.cpfc.co.uk/",
+	"description":"<p>In order to find directions to the Selhurst Park Stadium please use the link below.</p>",
+	"coords":"51.398178,-0.085245",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/crystal-palace-fc.png"
+    },
+    {
+	"name":"Everton",
+	"nickname":"Nickname: The Toffees, The Blues, The School of Science, The Peoples Club.",
+	"founded":" Founded: 12, September 1878",
+	"website":"http://www.evertonfc.com/",
+	"description":"<p>In order to find directions to the Goodison Park Stadium please use the link below.</p>",
+	"coords":"53.438844,-2.966368",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/everton-fc-logo1.png"
+    },
+    {
+	"name":"Hull City",
+	"nickname":"Nickname: The Tigers",
+	"founded":" Founded: 5, March 1904",
+	"website":"http://www.hullcitytigers.com/",
+	"description":"<p>In order to find directions to the KC Stadium please use the link below.</p>",
+	"coords":"53.746207,-0.367631",
+	"image":"https://hdlogo.files.wordpress.com/2011/08/hull-city-afc-hd-logo.png"
+    },
+    {
+	"name":"Leicester City",
+	"nickname":"Nickname: The Foxes, City, Blue Army",
+	"founded":" Founded: 24, July 1884",
+	"website":"http://www.lcfc.com/",
+	"description":"<p>In order to find directions to the King Power Stadium please use the link below.</p>",
+	"coords":"52.620044,-1.1415",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/leicester-city-fc-hd-logo.png"
+    },
+    {
+	"name":"Liverpool",
+	"nickname":"Nickname: The Reds",
+	"founded":" Founded: 3, June 1892",
+	"website":"http://www.liverpoolfc.com",
+	"description":"<p>In order to find directions to the Anfield Stadium please use the link below.</p>",
+	"coords":"53.430829,-2.96083",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/liverpool.png"
+    },
+    {
+	"name":"Manchester City",
+	"nickname":"Nickname: City, The Citizens, The Sky Blues",
+	"founded":" Founded: 16, April 1894",
+	"website":"http://www.mcfc.co.uk/",
+	"description":"<p>In order to find directions to the Etihad Stadium please use the link below.</p>",
+	"coords":"53.483195,-2.199977",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/manchester-city.png"
+    },
+    {
+	"name":"Manchester United",
+	"nickname":"Nickname: The Red Devils",
+	"founded":" Founded: 15, October 1902",
+	"website":"http://www.manutd.com/",
+	"description":"<p>In order to find directions to the Old Trafford Stadium please use the link below.</p>",
+	"coords":"53.463059,-2.29134",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/manchester-united.png"
+    },
+    {
+	"name":"Newcastle United",
+	"nickname":"Nickname: The Magpies, The Toon, Geordies",
+	"founded":" Founded: 9, December 1892",
+	"website":"http://www.nufc.co.uk/page/Welcome/",
+	"description":"<p>In order to find directions to the St. James Park Stadium please use the link below.</p>",
+	"coords":"54.975567,-1.621674",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/newcastle-united.png"
+    },
+    {
+	"name":"Queens Park Rangers",
+	"nickname":"Nickname: The Hoops",
+	"founded":" Founded: 3, November 1882",
+	"website":"http://www.qpr.co.uk/",
+	"description":"<p>In order to find directions to the Loftus Road Stadium please use the link below.</p>",
+	"coords":"51.509622,-0.232914",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/queens-park-rangers-hd-logo.png"
+    },
+    {
+	"name":"Southampton FC",
+	"nickname":"Nickname: The Saints",
+	"founded":" Founded: 21 November 1885",
+	"website":"http://www.saintsfc.co.uk/",
+	"description":"<p>In order to find directions to the St. Marys Stadium please use the link below.</p>",
+	"coords":"50.906137,-1.390984",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/southampton-fc.png"
+    },
+    {
+	"name":"Stoke City",
+	"nickname":"Nickname: The Potters",
+	"founded":" Founded: 3, June 1863",
+	"website":"http://www.stokecityfc.com/",
+	"description":"<p>In order to find directions to the Britannia Park Stadium please use the link below.</p>",
+	"coords":"52.988264,-2.175464",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/stoke-city.png?w=1000&h="
+    },
+    {
+	"name":"Sunderland AFC",
+	"nickname":"Nickname: The Black Cats",
+	"founded":" Founded: 10, September 1879;",
+	"website":"http://www.safc.com/",
+	"description":"<p>In order to find directions to the Stadium of Light please use the link below.</p>",
+	"coords":"54.913899,-1.387941",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/sunderland.png"
+    },
+    {
+	"name":"Swansea City",
+	"nickname":"Nickname: The Swans, The Jacks",
+	"founded":" Founded: 5, January 1912",
+	"website":"http://www.swanseacity.net/",
+	"description":"<p>In order to find directions to the Liberty Stadium please use the link below.</p>",
+	"coords":"51.642696,-3.935307",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/swansea-city-afc.png"
+    },
+    {
+	"name":"Tottenham Hotspur",
+	"nickname":"Nickname: Spurs, The Lilywhites",
+	"founded":" Founded: 5, September 1882",
+	"website":"http://www.tottenhamhotspur.com/",
+	"description":"<p>In order to find directions to the White Hart Lane Stadium please use the link below.</p>",
+	"coords":"51.603211,-0.06643",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/tottenham-hotspur.png"
+    },
+    {
+	"name":"West Bromwich Albion",
+	"nickname":"Nickname: The Baggies, The Throstles, Albion",
+	"founded":" Founded: 27, August 1878",
+	"website":"http://www.wba.co.uk/",
+	"description":"<p>In order to find directions to The Hawthorns Stadium please use the link below.</p>",
+	"coords":"52.509038,-1.963494",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/west-bromwich-albion-hd-logo.png"
+    },
+    {
+	"name":"West Ham United",
+	"nickname":"Nickname: The Irons, The Hammers",
+	"founded":" Founded: 3, June 1895",
+	"website":"http://www.whufc.com/",
+	"description":"<p>In order to find directions to the Boleyn Ground Stadium please use the link below.</p>",
+	"coords":"51.531957,0.039402",
+	"image":"https://hdlogo.files.wordpress.com/2013/11/west-ham.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+	"name":"Blackpool FC",
+	"nickname":"Nickname: The Seasiders, The Pool, The Tangerines",
+	"founded":"Founded: 26, July 1887",
+	"website":"http://www.blackpoolfc.co.uk/",
+	"description":"<p>In order to find directions to the Bloomfield Road Stadium please use the link below.</p>",
+	"coords":"53.804901,-3.0481",
+	"image":"https://hdlogo.files.wordpress.com/2015/01/blackpool-fc-hd-logo.png"
+    },
+    {
+	"name":"Huddersfield Town",
+	"nickname":"Nickname: The Terriers",
+	"founded":"Founded: 15, August 1908",
+	"website":"http://www.htafc.com/",
+	"description":"<p>In order to find directions to the John Smiths Stadium please use the link below.</p>",
+	"coords":"53.654206,-1.768448",
+	"image":"https://hdlogo.files.wordpress.com/2015/01/huddersfield-town-fc-hd-logo.png"
+    },
+    {
+	"name":"Leeds United",
+	"nickname":"Nickname: The Whites, The Peacocks, United",
+	"founded":"Founded: 23, October 1919",
+	"website":"http://www.leedsunited.com/",
+	"description":"<p>In order to find directions to the Elland Road Stadium please use the link below.</p>",
+	"coords":"53.777802,-1.572178",
+	"image":"https://hdlogo.files.wordpress.com/2015/01/leeds-united-hd-logo.png"
+    }
+]
+

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=medium-dpi" />
+		<!-- Stylesheets -->
+		<link rel="stylesheet" href="css/stad_finder.min.css" />
+        <link rel="stylesheet" href="css/master.css" />
+		<link rel="stylesheet" href="css/jquery.mobile.icons.min.css" />
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" />
+		<!-- End Stylesheets -->
+		<!-- Scripts -->
+        <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+        <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyDkFbUAfxhwNn8UIPgQmFixF9zqGGC9E8E"></script>
+		<script type="text/javascript" charset="utf-8" src="js/googleMap.js"></script>
+		<!-- End Scripts -->
+	<title>StadFind</title>
+    </head>
+    <body>
+											
+<!--Map Page -->
+												
+	<div  id="stad_find" data-role="page">
+		<!-- Page Header -->
+		<div id="header" data-theme="a" data-role="header">
+		    <a href="#menu" class="icon_only" data-role="button" data-icon="grid" data-iconpos="notext" data-transition="none">menu</a>
+		    <h1>Directions to Stadium</h1>
+		</div>
+		
+		<!-- Content -->
+		<div id="content" data-role="content">
+		    <div id="mapCanvas"></div>
+		    <div id="panel"></div>
+		</div>
+		
+		<!-- Footer -->
+		<div data-role="footer" data-position="fixed">
+		    <h3>Created By: Chris Bywater</h3>
+		</div>
+			
+		<!-- Panel -->
+		<div data-role="panel" data-theme="a" id="menu" data-position="left" data-display="push">
+			<img src='img/app_icon.png' id='icon' alt='Football Stadium Finder Logo'><h2 class="Menu">Main Menu</h2>
+			<br>
+			<ul data-role="listview" data-inset="false" data-theme="a">
+			    <li data-icon="home"><a data-transition="none" href="index.html">Home</a></li>
+			    <li><a data-transition="none" href="all_teams.html">All Leagues</a></li>
+				<li><a data-transition="none" href="prem.html">Premier League</a></li>
+				<li><a data-transition="none" href="champ.html">Championship</a></li>
+				<li><a data-transition="none" href="stad_cap.html">Stadium Capacities</a></li>
+			</ul>
+		</div>
+	</div>
+    </body>
+</html>
